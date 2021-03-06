@@ -26,7 +26,7 @@ The U.S. census data is provided in a .csv file. It contains several variables a
 
 ### Prerequisites
 - Python 3.6.3
-  - numppy
+  - numpy
   - pandas
   - matplotlib
   - seaborn
