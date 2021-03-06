@@ -1,5 +1,4 @@
 # Investigating firearm registrations and census data at a State level in the U.S.
-#### Data Analytics Project 1
 
 For this investigation the FBI's National Instant Criminal Background Check System (NICS) data and U.S. census data has been utilised.
 
@@ -20,7 +19,7 @@ For this study, the NICS data has been supplemented with state level data from c
 
 The U.S. census data is provided in a .csv file. It contains several variables at the state level. Most variables just have one data point per state (2016), but a few have data for more than one year.
 
-Questions to investigate
+Questions to investigate:
 - Which states have had the highest growth in firearm registrations?
 - Is there a seasonality to firearm registrations?
 - Does population change, education or poverty have an impact on firearm registrations?
