@@ -1,5 +1,25 @@
 # Investigating firearm registrations and census data at a State level in the U.S.
 
+## Tool and Skills Used
+
+### Tools
+- Python 3.6.3
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - datetime
+- Jupyter Notebook
+
+### Skills
+- Data exploration
+- Data integration
+- Data wrangling
+- Data visualisation
+- Communication
+
+## Project Details
+
 For this investigation the FBI's National Instant Criminal Background Check System (NICS) data and U.S. census data has been utilised.
 
 ### FBI's National Instant Criminal Background Check System (NICS) data
@@ -23,12 +43,3 @@ The U.S. census data is provided in a .csv file. It contains several variables a
 - Which states have had the highest growth in firearm registrations?
 - Is there a seasonality to firearm registrations?
 - Does population change, education or poverty have an impact on firearm registrations?
-
-### Prerequisites
-- Python 3.6.3
-  - numpy
-  - pandas
-  - matplotlib
-  - seaborn
-  - datetime
-- Jupyter Notebook
