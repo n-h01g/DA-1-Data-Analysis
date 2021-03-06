@@ -32,4 +32,3 @@ The U.S. census data is provided in a .csv file. It contains several variables a
   - seaborn
   - datetime
 - Jupyter Notebook
-- Anaconda-Navigator
