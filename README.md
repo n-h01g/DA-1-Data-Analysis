@@ -1,6 +1,6 @@
 # Investigating firearm registrations and census data at a State level in the U.S.
 
-## Tool and Skills Used
+## Tools and Skills Used
 
 ### Tools
 - Python 3.6.3
