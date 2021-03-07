@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center"><a href = "https://www.udacity.com/course/data-analyst-nanodegree--nd002"> Udacity Data Analyst Nanodegree </a></h1>
-<h2 align="center">Project I: Introduction to Data Analytics<br><br>Investigating firearm registrations and census data at a State level in the U.S.<br></h2>
+<h2 align="center">Project I: Introduction to Data Analytics<br><br>Investigating Firearm Registrations and Census Data at a State Level in the U.S.A.</h2>
 
 ### Tools and Skills Used
 
